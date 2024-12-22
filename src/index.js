@@ -13,3 +13,7 @@ const featureOne = () => {
 const featureOneV2 = () => {
     console.log('feat: 1 version 2');
 }
+
+const featureTwo = () => {
+    console.log('feat: 2');
+}
