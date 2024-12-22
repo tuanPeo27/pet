@@ -9,3 +9,7 @@ console.log(5.5);
 const featureOne = () => {
     console.log('feat: 1');
 }
+
+const featureOneV2 = () => {
+    console.log('feat: 1 version 2');
+}
